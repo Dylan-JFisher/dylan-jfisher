@@ -7,4 +7,5 @@ I am a Lead Developer at **Psittacus Systems** working on various different proj
 
 #### How to reach me
 Connect with me on [LinkedIn](https://www.linkedin.com/in/dylan-fisher-ab44b8168)
+
 Email me at [hello@dylanfisher.dev](mailto:hello@dylanfisher.dev)
