@@ -1,7 +1,7 @@
 ### Hi there, I'm Dylan! 👋
 
 #### About Me
-I am a Lead Developer at **Psittacus Systems** working on various different projects.
+I'm a Website Developer creating awesome projects in PHP focused in the Laravel framework.
 
 🔭 I love expanding my knowledge and learning new technologies based around the Laravel and greater PHP ecosystem.
 
